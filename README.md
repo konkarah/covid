@@ -2,8 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### [Live Site](https://konkarah.github.io/covid)
-
 
 ## Introduction
 This project is made using [Material-UI](https://mui.com/) library and ReactJs.
