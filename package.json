@@ -1,6 +1,6 @@
 {
   "homepage": "https://konkarah.github.io/covid",
-  "name": "covidtracker",
+  "name": "covid",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
